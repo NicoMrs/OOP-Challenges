@@ -1,9 +1,9 @@
 # OOP-Challenges
 
 This repository aims at solving **Object Oriented Programing** python challenges. These challenges come from "Andy Bek OOP course" (a great course by the way, so thumbs up for the author).
-In this repository, I will post my personal solutions to the challenges and try to write code in the best pythonic way possible.
+In this repository, I will post my personal solutions to the challenges and write code in the best pythonic way possible.
 <p align="center">
-  <img src="images/pythonOOP.png?raw=true" width="180">
+  <img src="images/pythonOOP.png?raw=true" width="200">
 </p>
 
 Following topics are covered:
