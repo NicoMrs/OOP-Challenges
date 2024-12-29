@@ -10,6 +10,9 @@ Following topics are covered:
 - [01 - classes intro](https://github.com/NicoMrs/OOP-Challenges/tree/main/01%20-%20classes%20intro)
 - [02 - dunder](https://github.com/NicoMrs/OOP-Challenges/tree/main/02%20-%20dunder)
 - [03 - properties](https://github.com/NicoMrs/OOP-Challenges/tree/main/03%20-%20properties)
+- [04 - inheritance](https://github.com/NicoMrs/OOP-Challenges/tree/main/04%20-%20inheritance)
+- [06 - properties](https://github.com/NicoMrs/OOP-Challenges/tree/main/06%20-%20dataclasses)
+- [10 - properties](https://github.com/NicoMrs/OOP-Challenges/tree/main/10%20-%20dynamic%20protocols)
 
 Resources:
 Andy Bek website : *https://www.andybek.com/*  
