@@ -11,8 +11,12 @@ Following topics are covered:
 - [02 - dunder](https://github.com/NicoMrs/OOP-Challenges/tree/main/02%20-%20dunder)
 - [03 - properties](https://github.com/NicoMrs/OOP-Challenges/tree/main/03%20-%20properties)
 - [04 - inheritance](https://github.com/NicoMrs/OOP-Challenges/tree/main/04%20-%20inheritance)
-- [06 - properties](https://github.com/NicoMrs/OOP-Challenges/tree/main/06%20-%20dataclasses)
-- [10 - properties](https://github.com/NicoMrs/OOP-Challenges/tree/main/10%20-%20dynamic%20protocols)
+- [05 - slots](https://github.com/NicoMrs/OOP-Challenges/tree/main/05%20-%20slots)
+- [06 - dataclasses](https://github.com/NicoMrs/OOP-Challenges/tree/main/06%20-%20dataclasses)
+- [07 - descriptors](https://github.com/NicoMrs/OOP-Challenges/tree/main/07%20-%20descriptors)
+- [08 - enums](https://github.com/NicoMrs/OOP-Challenges/tree/main/08%20-%20enums)
+- [10 - dynamic protocols](https://github.com/NicoMrs/OOP-Challenges/tree/main/10%20-%20dynamic%20protocols)
+- [11 - exceptions](https://github.com/NicoMrs/OOP-Challenges/tree/main/11%20-%20dynamic%20exceptions)
 
 Resources:
 Andy Bek website : *https://www.andybek.com/*  
